@@ -5,8 +5,8 @@ objectClass: organizationalPerson
 objectClass: inetOrgPerson
 objectClass: pf-connected-identities
 sn: Hopper
-cn: Grace Hopper
-givenName: Grace
+cn: Tim Hopper
+givenName: Tim
 uid: ghopper
 userPassword: 2FederateM0re
 pf-connected-identity: auth-source=pf-local-identity:user-id=ghopper
